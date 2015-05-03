@@ -1,0 +1,41 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Colorcoder",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Floobits",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"Protocol Buffer Syntax",
+		"R-Box",
+		"Racket",
+		"SFTP",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"SublimeHaskell",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"Theme - Soda",
+		"Web Inspector"
+	]
+}
