@@ -216,3 +216,4 @@ pip-log.txt
 .mr.developer.cfg
 
 Package Control.last-run
+encoding_cache.json

@@ -1,9 +1,10 @@
 {
 	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded) (SL) (Colorcoded).tmTheme",
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"original_color_scheme": "Packages/User/SublimeLinter/Monokai (Colorcoded) (SL).tmTheme"
 }
