@@ -15,7 +15,6 @@
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
-		"Floobits",
 		"Git",
 		"GitGutter",
 		"Github Tools",
@@ -41,7 +40,6 @@
 		"SublimeLinter",
 		"SublimeREPL",
 		"Theme - Soda",
-		"Web Inspector",
 		"xml2json"
 	]
 }
